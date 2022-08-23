@@ -1,0 +1,2 @@
+# hotel
+create_hotel
